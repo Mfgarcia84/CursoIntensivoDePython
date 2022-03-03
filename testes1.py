@@ -1,2 +1,1 @@
-print("Hello, world!")
-print("Oi")
+print("testando git push e pull")
