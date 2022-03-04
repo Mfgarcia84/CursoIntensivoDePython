@@ -5,7 +5,7 @@ continuar = True
 while continuar:
     computador = randint(1, 10)
     usuario = int(input("Estou pensando em um número, tente advinhar: "))
-    while True:
+    while True: #teste de acerto
         if computador == usuario:
             print("Você acertou....Parabéns!!!")
             break
